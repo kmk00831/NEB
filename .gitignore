@@ -1,0 +1,25 @@
+# === Unity 캐시 & 빌드 아티팩트 ===
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# === IDE/에디터 임시 파일 ===
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# === Crash 덤프 및 시스템 정보 ===
+sysinfo.txt
+
+# === 패키지 매니페스트 (필수 제외 아님) ===
+# Packages/ 폴더는 꼭 올려야 합니다.
